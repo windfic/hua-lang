@@ -3,7 +3,13 @@
 
 
 ```
-proc int:plus([]:para) {
+
+struct pair {
+  int:num1;
+  int:num2;
+}
+
+proc int:plus(pair[]:para) {
   int:ret = para.num1+para.num2;
   return ret;
 }
