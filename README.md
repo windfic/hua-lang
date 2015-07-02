@@ -4,7 +4,7 @@
 
 ```
 proc int:plus([]:para) {
-  int:ret = para[num1]+paa[num2]
+  int:ret = para.num1+para.num2;
   return ret;
 }
 
