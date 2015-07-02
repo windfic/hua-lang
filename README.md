@@ -25,6 +25,6 @@ var.p1=1;
 var.p2=2;
 var.p3=3;
 
-plus(var[p1,p2]);
+var[p1,p2].plus();
 
 ```
