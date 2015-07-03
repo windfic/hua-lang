@@ -1,6 +1,10 @@
 # hua-lang 花语言
 
-
+* 万能结构符[]
+* Type[] 数组
+* Type[Type] 泛型
+* Var[] 指针
+* Var[Type] 指针运算
 
 ```
 
