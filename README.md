@@ -28,3 +28,17 @@ var.p3=3;
 var[p1,p2].plus();
 
 ```
+
+
+```
+struct sa {
+  int:a;
+  int:b;
+}
+
+struct sb {
+  mixin sa:c;
+  int:d;
+}
+
+```
