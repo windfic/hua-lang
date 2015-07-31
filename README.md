@@ -191,7 +191,7 @@ JAVA为了消灭指针，引入了很多说法，一，值类型与引用类型�
 
 ### 语法
 ```
-stmt ::=  prefix defin expr block
+stmt ::=  prefix define expr block
 ```
 ### 实例
 
